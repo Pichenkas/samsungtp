@@ -1,0 +1,72 @@
+.nkt {
+    display:flex;
+    align-items:stretch;
+    color: darkgrey;
+}
+.lox{
+    display: flex;
+    justify-content:center;
+}
+.lex{
+    display: flex;
+    flex-wrap: nowrap;
+}                         
+.ppaa{ 
+    justify-content: center;
+    display: flex;
+    align-content:center;
+    color: darkgrey;
+}
+.q{
+    justify-content: center;
+    display: flex;
+    align-content:center;
+    color: darkgrey;
+}
+.e{
+    justify-content: center;
+    display: flex;
+    align-content:center;
+    color: darkgrey;
+}
+.custom-button {
+    border: 0;
+    border-radius: 0.5em;
+    font-weight: 700;
+    margin:0 auto;
+}
+.lex {
+    display:flex;
+    justify-content: center;
+}
+.hh {
+    text-align: center;
+    color: aliceblue;
+}
+.t {
+    display: flex;
+    justify-content:space-around;
+    color: aliceblue;
+}
+.mmm {
+    display: flex;
+    justify-content:space-around;
+    color: aliceblue;
+}
+.artem {
+    background-color: darkgrey;
+    display: flex;
+    justify-content: center;
+}
+.maksim {
+    background-color: darkgrey;
+    display: flex;
+    justify-content: center;
+}
+.bbr {
+    background-color: darkgrey;
+    display: flex;
+    justify-content: center;
+}
+
+    
